@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "area-de-evacuacao",
+    "name": "Área de Evacuação A/B",
+    "color": "white",
+    "file": "area-de-evacuacao.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 18
+    }
+  },
+  {
+    "slug": "arsenal",
+    "name": "Arsenal",
+    "color": "red",
+    "file": "arsenal.png",
+    "width": 224,
+    "height": 191,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 18
+    }
+  },
+  {
+    "slug": "deposito",
+    "name": "Depósito",
+    "color": "red",
+    "file": "deposito.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 18
+    }
+  },
+  {
+    "slug": "gerador",
+    "name": "Gerador",
+    "color": "yellow",
+    "file": "gerador.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 18
+    }
+  },
+  {
+    "slug": "laboratorio",
+    "name": "Laboratório",
+    "color": "green",
+    "file": "laboratorio.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 19
+    }
+  },
+  {
+    "slug": "ninho",
+    "name": "Ninho",
+    "color": "none",
+    "file": "ninho.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 19
+    }
+  },
+  {
+    "slug": "sala-de-cirurgia",
+    "name": "Sala de Cirurgia",
+    "color": "green",
+    "file": "sala-de-cirurgia.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 19
+    }
+  },
+  {
+    "slug": "sala-de-emergencia",
+    "name": "Sala de Emergência",
+    "color": "green",
+    "file": "sala-de-emergencia.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 19
+    }
+  },
+  {
+    "slug": "sala-do-comunicador",
+    "name": "Sala do Comunicador",
+    "color": "yellow",
+    "file": "sala-do-comunicador.png",
+    "width": 224,
+    "height": 191,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 20
+    }
+  },
+  {
+    "slug": "sistema-de-controle-de-incendio",
+    "name": "Sistema de Controle de Incêndio",
+    "color": "yellow",
+    "file": "sistema-de-controle-de-incendio.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 20
+    }
+  },
+  {
+    "slug": "banheiro-com-ducha",
+    "name": "Banheiro com Ducha",
+    "color": "white",
+    "file": "banheiro-com-ducha.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 20
+    }
+  },
+  {
+    "slug": "cabines",
+    "name": "Cabines",
+    "color": "white",
+    "file": "cabines.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 20
+    }
+  },
+  {
+    "slug": "casa-de-maquinas",
+    "name": "Casa de Máquinas",
+    "color": "yellow",
+    "file": "casa-de-maquinas.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 21
+    }
+  },
+  {
+    "slug": "centro-de-comando",
+    "name": "Centro de Comando",
+    "color": "red",
+    "file": "centro-de-comando.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 21
+    }
+  },
+  {
+    "slug": "comodo-coberto-por-gosma",
+    "name": "Cômodo Coberto por Gosma",
+    "color": "none",
+    "file": "comodo-coberto-por-gosma.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 21
+    }
+  },
+  {
+    "slug": "controle-de-vedacao",
+    "name": "Controle de Vedação",
+    "color": "yellow",
+    "file": "controle-de-vedacao.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 21
+    }
+  },
+  {
+    "slug": "refeitorio",
+    "name": "Refeitório",
+    "color": "green",
+    "file": "refeitorio.png",
+    "width": 224,
+    "height": 191,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 22
+    }
+  },
+  {
+    "slug": "sala-de-monitoramento",
+    "name": "Sala de Monitoramento",
+    "color": "red",
+    "file": "sala-de-monitoramento.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 22
+    }
+  },
+  {
+    "slug": "sistema-de-controle-da-escotilha",
+    "name": "Sistema de Controle da Escotilha",
+    "color": "white",
+    "file": "sistema-de-controle-da-escotilha.png",
+    "width": 224,
+    "height": 192,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 22
+    }
+  },
+  {
+    "slug": "cockpit",
+    "name": "Cockpit",
+    "color": "special",
+    "file": "cockpit.png",
+    "width": 454,
+    "height": 284,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 22
+    }
+  },
+  {
+    "slug": "hibernatorio",
+    "name": "Hibernatório",
+    "color": "special",
+    "file": "hibernatorio.png",
+    "width": 308,
+    "height": 190,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 23
+    }
+  },
+  {
+    "slug": "motor-01",
+    "name": "Motor 01",
+    "color": "special",
+    "file": "motor-01.png",
+    "width": 338,
+    "height": 327,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 23
+    }
+  },
+  {
+    "slug": "motor-02",
+    "name": "Motor 02",
+    "color": "special",
+    "file": "motor-02.png",
+    "width": 405,
+    "height": 301,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 23
+    }
+  },
+  {
+    "slug": "motor-03",
+    "name": "Motor 03",
+    "color": "special",
+    "file": "motor-03.png",
+    "width": 304,
+    "height": 344,
+    "source": {
+      "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+      "page": 23
+    }
+  }
+]

@@ -1,0 +1,547 @@
+[
+ {
+  "slug": "custo-0",
+  "label": "Custo de Ação 0",
+  "file": "custo-0.png",
+  "width": 60,
+  "height": 58,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 14,
+   "object": "1246"
+  },
+  "edited": "redrawn by Jesse (2026-10-01)"
+ },
+ {
+  "slug": "custo-1",
+  "label": "Custo de Ação 1",
+  "file": "custo-1.png",
+  "width": 60,
+  "height": 58,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 14,
+   "object": "1250"
+  },
+  "edited": "redrawn by Jesse (2026-10-01)"
+ },
+ {
+  "slug": "custo-2",
+  "label": "Custo de Ação 2",
+  "file": "custo-2.png",
+  "width": 60,
+  "height": 58,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 14,
+   "object": "1226"
+  },
+  "edited": "redrawn by Jesse (2026-10-01)"
+ },
+ {
+  "slug": "somente-em-combate",
+  "label": "Somente em Combate",
+  "file": "somente-em-combate.png",
+  "width": 53,
+  "height": 36,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 14,
+   "object": "1230"
+  }
+ },
+ {
+  "slug": "somente-fora-de-combate",
+  "label": "Somente fora de Combate",
+  "file": "somente-fora-de-combate.png",
+  "width": 53,
+  "height": 47,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 14,
+   "object": "1234"
+  }
+ },
+ {
+  "slug": "intrusora-larval",
+  "label": "Larval",
+  "file": "intrusora-larval.png",
+  "width": 103,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6362"
+  }
+ },
+ {
+  "slug": "intrusora-rastejante",
+  "label": "Rastejante",
+  "file": "intrusora-rastejante.png",
+  "width": 103,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6340"
+  }
+ },
+ {
+  "slug": "intrusora-adulta",
+  "label": "Intrusora Adulta",
+  "file": "intrusora-adulta.png",
+  "width": 104,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6366"
+  }
+ },
+ {
+  "slug": "intrusora-reprodutora",
+  "label": "Reprodutora",
+  "file": "intrusora-reprodutora.png",
+  "width": 102,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6344"
+  }
+ },
+ {
+  "slug": "intrusora-rainha",
+  "label": "Rainha",
+  "file": "intrusora-rainha.png",
+  "width": 103,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6329"
+  }
+ },
+ {
+  "slug": "intrusora-em-branco",
+  "label": "Ficha Em Branco",
+  "file": "intrusora-em-branco.png",
+  "width": 101,
+  "height": 99,
+  "source": {
+   "pdf": "nemesis-player-aid-eng-bgg.pdf",
+   "page": 1,
+   "object": "6336"
+  }
+ },
+ {
+  "slug": "exploracao-silencio",
+  "label": "Silêncio (ficha de Exploração)",
+  "file": "exploracao-silencio.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1551"
+  }
+ },
+ {
+  "slug": "exploracao-perigo",
+  "label": "Perigo (ficha de Exploração)",
+  "file": "exploracao-perigo.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1555"
+  }
+ },
+ {
+  "slug": "exploracao-gosma",
+  "label": "Gosma (ficha de Exploração)",
+  "file": "exploracao-gosma.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1559"
+  }
+ },
+ {
+  "slug": "exploracao-fogo",
+  "label": "Fogo (ficha de Exploração)",
+  "file": "exploracao-fogo.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1563"
+  }
+ },
+ {
+  "slug": "exploracao-defeito",
+  "label": "Defeito (ficha de Exploração)",
+  "file": "exploracao-defeito.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1567"
+  }
+ },
+ {
+  "slug": "exploracao-portas",
+  "label": "Portas (ficha de Exploração)",
+  "file": "exploracao-portas.png",
+  "width": 49,
+  "height": 55,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1571"
+  }
+ },
+ {
+  "slug": "ruido-1",
+  "label": "Dado de Ruído: 1",
+  "file": "ruido-1.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1579"
+  }
+ },
+ {
+  "slug": "ruido-2",
+  "label": "Dado de Ruído: 2",
+  "file": "ruido-2.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1583"
+  }
+ },
+ {
+  "slug": "ruido-3",
+  "label": "Dado de Ruído: 3",
+  "file": "ruido-3.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1587"
+  }
+ },
+ {
+  "slug": "ruido-4",
+  "label": "Dado de Ruído: 4",
+  "file": "ruido-4.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1591"
+  }
+ },
+ {
+  "slug": "ruido-perigo",
+  "label": "Dado de Ruído: Perigo",
+  "file": "ruido-perigo.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1539"
+  }
+ },
+ {
+  "slug": "ruido-silencio",
+  "label": "Dado de Ruído: Silêncio",
+  "file": "ruido-silencio.png",
+  "width": 48,
+  "height": 48,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1543"
+  }
+ },
+ {
+  "slug": "dado-de-ruido",
+  "label": "Dado de Ruído",
+  "file": "dado-de-ruido.png",
+  "width": 56,
+  "height": 56,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 17,
+   "object": "1575"
+  }
+ },
+ {
+  "slug": "marcador-ruido",
+  "label": "Marcador de Ruído",
+  "file": "marcador-ruido.png",
+  "width": 54,
+  "height": 46,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1793"
+  }
+ },
+ {
+  "slug": "marcador-fogo",
+  "label": "Marcador de Fogo",
+  "file": "marcador-fogo.png",
+  "width": 53,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1801"
+  }
+ },
+ {
+  "slug": "marcador-defeito",
+  "label": "Marcador de Defeito",
+  "file": "marcador-defeito.png",
+  "width": 53,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1805"
+  }
+ },
+ {
+  "slug": "marcador-status",
+  "label": "Marcador de Status",
+  "file": "marcador-status.png",
+  "width": 52,
+  "height": 53,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1797"
+  }
+ },
+ {
+  "slug": "ficha-porta",
+  "label": "Ficha de Porta",
+  "file": "ficha-porta.png",
+  "width": 59,
+  "height": 83,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1813"
+  }
+ },
+ {
+  "slug": "computador",
+  "label": "Computador",
+  "file": "computador.png",
+  "width": 39,
+  "height": 39,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 19,
+   "object": "1809"
+  }
+ },
+ {
+  "slug": "dado-de-combate",
+  "label": "Dado de Combate",
+  "file": "dado-de-combate.png",
+  "width": 56,
+  "height": 56,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "1873"
+  }
+ },
+ {
+  "slug": "combate-vazio",
+  "label": "Dado de Combate: face vazia",
+  "file": "combate-vazio.png",
+  "width": 33,
+  "height": 33,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "3033"
+  }
+ },
+ {
+  "slug": "combate-larval-rastejante",
+  "label": "Dado de Combate: Larval/Rastejante",
+  "file": "combate-larval-rastejante.png",
+  "width": 33,
+  "height": 33,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "3029"
+  }
+ },
+ {
+  "slug": "combate-adulta",
+  "label": "Dado de Combate: Larval/Rastejante/Adulta",
+  "file": "combate-adulta.png",
+  "width": 33,
+  "height": 33,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "3025"
+  }
+ },
+ {
+  "slug": "combate-qualquer",
+  "label": "Dado de Combate: qualquer Intrusora",
+  "file": "combate-qualquer.png",
+  "width": 33,
+  "height": 33,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "3021"
+  }
+ },
+ {
+  "slug": "combate-dois-danos",
+  "label": "Dado de Combate: dois Danos",
+  "file": "combate-dois-danos.png",
+  "width": 33,
+  "height": 33,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 20,
+   "object": "3037"
+  }
+ },
+ {
+  "slug": "sangue",
+  "label": "Símbolo de sangue",
+  "file": "sangue.png",
+  "width": 52,
+  "height": 50,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 22,
+   "object": "2066"
+  }
+ },
+ {
+  "slug": "recuo",
+  "label": "Seta de Recuo",
+  "file": "recuo.png",
+  "width": 37,
+  "height": 35,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 22,
+   "object": "2078"
+  },
+  "note": "glifo branco original com luminância invertida (para leitura em fundo claro)"
+ },
+ {
+  "slug": "cadaver-vermelho",
+  "label": "Cadáver de Personagem",
+  "file": "cadaver-vermelho.png",
+  "width": 54,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 23,
+   "object": "2193"
+  }
+ },
+ {
+  "slug": "cadaver-azul",
+  "label": "Ficha azul de Cadáver de Personagem",
+  "file": "cadaver-azul.png",
+  "width": 54,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 23,
+   "object": "2189"
+  }
+ },
+ {
+  "slug": "ovo",
+  "label": "Ovo de Intrusora",
+  "file": "ovo.png",
+  "width": 48,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 23,
+   "object": "2181"
+  }
+ },
+ {
+  "slug": "carcaca",
+  "label": "Carcaça de Intrusora",
+  "file": "carcaca.png",
+  "width": 54,
+  "height": 54,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 22,
+   "object": "2070"
+  }
+ },
+ {
+  "slug": "mao",
+  "label": "Símbolo de Mão",
+  "file": "mao.png",
+  "width": 54,
+  "height": 51,
+  "source": {
+   "pdf": "nemesis-oficial-rulebook-ptbr.pdf",
+   "page": 24,
+   "object": "2297"
+  },
+  "note": "glifo branco original com luminância invertida (para leitura em fundo claro)"
+ },
+ {
+  "slug": "trilha-tempo-fim",
+  "label": "Espaço final da Trilha de Tempo",
+  "file": "trilha-tempo-fim.png",
+  "width": 97,
+  "height": 96,
+  "source": {
+   "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+   "page": 15,
+   "note": "recorte enviado pelo Jesse"
+  }
+ },
+ {
+  "slug": "trilha-autodestruicao-fim",
+  "label": "Espaço final da Trilha de Autodestruição",
+  "file": "trilha-autodestruicao-fim.png",
+  "width": 94,
+  "height": 95,
+  "source": {
+   "pdf": "nemesis-player-aid-ptbr-marcelo.pdf",
+   "page": 15,
+   "note": "recorte enviado pelo Jesse"
+  }
+ }
+]

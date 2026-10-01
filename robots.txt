@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jesseqroz.github.io/nemesis-player-aid/sitemap.xml
